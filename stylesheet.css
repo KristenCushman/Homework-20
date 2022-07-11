@@ -1,0 +1,29 @@
+.signup {
+    margin: 35px auto;
+    background-color: #531b1b;
+    padding: 25px;
+    border-radius: 7px;
+}
+
+
+.display-4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cardContainer col-lg-3 col-md-3 col-sm-12{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.container-fluid{
+    font-display: center;
+    font-stretch: extra-expanded;
+    background-color: blue;
+}
+.instagram{
+    margin: 25px;
+}
+
+.jumbotron {
+    max-width: 100%;
+    max-height: 300px;
+}
